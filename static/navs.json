@@ -1,0 +1,35 @@
+
+[
+	{
+		"type": "folder",
+		"value": "es6"
+	},
+	{
+		"type": "folder",
+		"value": "interview"
+	},
+	{
+		"type": "folder",
+		"value": "javascript"
+	},
+	{
+		"type": "folder",
+		"value": "linux"
+	},
+	{
+		"type": "folder",
+		"value": "linuxCode"
+	},
+	{
+		"type": "folder",
+		"value": "network"
+	},
+	{
+		"type": "folder",
+		"value": "sequelize"
+	},
+	{
+		"type": "folder",
+		"value": "others"
+	}
+]
