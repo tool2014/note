@@ -1,0 +1,47 @@
+
+[
+	{
+		"type": "folder",
+		"value": "array"
+	},
+	{
+		"type": "folder",
+		"value": "boolean"
+	},
+	{
+		"type": "folder",
+		"value": "Date"
+	},
+	{
+		"type": "folder",
+		"value": "function"
+	},
+	{
+		"type": "folder",
+		"value": "functionProperty"
+	},
+	{
+		"type": "folder",
+		"value": "Math"
+	},
+	{
+		"type": "folder",
+		"value": "Number"
+	},
+	{
+		"type": "folder",
+		"value": "object"
+	},
+	{
+		"type": "folder",
+		"value": "RegExp"
+	},
+	{
+		"type": "folder",
+		"value": "string"
+	},
+	{
+		"type": "folder",
+		"value": "valProperty"
+	}
+]
